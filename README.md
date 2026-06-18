@@ -12,9 +12,7 @@ Gerstmeier, M., Ernst, M., Gassner, S., & Rehbein, M. (2026). *'State of emergen
 
 ## How to cite
 
-If you use or refer to this visualization or the underlying analysis, please cite the source publication:
-
-> Gerstmeier, M., Ernst, M., Gassner, S., & Rehbein, M. (2026). *'State of emergency' and configuration of penal justice in terms of repression and ideology: Munich Special Court (1933–45) and its computational historical resumption* [Preprint]. Preprints.org. https://doi.org/10.20944/preprints202604.1383.v1
+If you use or refer to this visualization or the underlying analysis, please cite the source publication.
 
 BibTeX:
 
